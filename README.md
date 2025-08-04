@@ -4,7 +4,7 @@
   
   <h2 align="left"><strong>🚀 Sobre mim</strong></h2>
   <div>
-  <p align="left">Desenvolvedor Full-Stack dedicado em busca de desafios, aprendizado e aperfeiçoamento pessoal, com experiência em Techs Web, AWS e Suporte Técnico.</p>
+  <p align="left">Desenvolvedor Full-Stack dedicado em busca de desafios, aprendizado e aperfeiçoamento pessoal, com experiência em Techs Web, AWS Certified Cloud Practitioner e Suporte Técnico.</p>
   </div>
 
   <h2 align="left"><strong>💻 Skills</strong></h2>
