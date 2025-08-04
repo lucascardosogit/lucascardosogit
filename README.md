@@ -1,35 +1,34 @@
-## Sobre mim
+<div align="center">
+  <h1>Olá, sou o Lucas!</h1>
+  <p>Desenvolvedor Full-Stack | Estudante em ADS</p>
+  
+  <h2 align="left"><strong>🚀 Sobre mim</strong></h2>
+  <div>
+  <p align="left">Desenvolvedor Full-Stack dedicado em busca de desafios, aprendizado e aperfeiçoamento pessoal, com experiência em Techs Web, AWS e Suporte Técnico.</p>
+  </div>
 
-Olá, me chamo Lucas e sou um estudante dedicado em busca de desafios e desenvolvimento pessoal!  
-Curso **Análise e Desenvolvimento de Sistemas** na **Faculdade da Serra Gaúcha**.  
-Atualmente estou me aprimorando para atuar como **Desenvolvedor FullStack**.
+  <h2 align="left"><strong>💻 Skills</strong></h2>
+  
+  **Techs**
+  
+  [![My Skills - JAVA, TS, JS, HTML, CSS, BOOTSTRAP, REACT, JQUERY](https://skillicons.dev/icons?i=java,ts,js,html,css,bootstrap,react,jquery)]()
+  
+  **Utilidades**
+  
+  [![Utils - POSTMAN, GIT, GITHUB, AWS](https://skillicons.dev/icons?i=postman,git,github,aws)](https://www.credly.com/badges/1cf542d1-07ed-496a-a874-ee51b86d06be)
+  
+  <h2 align="left"><strong>📞 Me contate</strong></h2>
 
-## Minhas Skills
+  <div>
+    <p>Fico a disposição para conversarmos!</p>
+  </div>
+  
+  [![E-mail](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucasepcardoso)
+  [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:lucasepcardoso@hotmail.com)
 
-**Aplicações e dados**
-
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952B3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![jQuery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=white)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-[![AWS Certification](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-333333?style=flat&logo=amazon-web-services&logoColor=white)](https://www.credly.com/badges/1cf542d1-07ed-496a-a874-ee51b86d06be)
+</div>
 
 
-## Onde me encontrar
 
-Fico à disposição caso queira solicitar conexão através de meu LinkedIn:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasepcardoso)
+
